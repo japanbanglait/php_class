@@ -45,13 +45,15 @@ function test_input($data) {
 
 <?php
 echo "<h2>Your Input:</h2>";
-echo $name;
+echo $Uscrname;
 echo "<br>";
-echo $email;
+echo $password ;
 echo "<br>";
-echo $website;
+echo $UscrType;
 echo "<br>";
-echo $comment;
+echo $DisplayName;
+echo "<br>";
+echo $address;
 echo "<br>";
 echo $gender;
 ?>
